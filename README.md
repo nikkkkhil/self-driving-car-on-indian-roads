@@ -4,7 +4,7 @@ Computer Vision Guided Deep Learning Network &amp; Machine Learning Techniques t
 ![](prediction_output.gif)  
 
 More Details of the Project here:
-https://nikhildeeplearningblogs.blogspot.com/2019/10/implementation-of-fully-autonomous-self.htm://nikhildeeplearningblogs.blogspot.com/2019/10/implementation-of-fully-autonomous-self.html
+https://nikhildeeplearningblogs.blogspot.com/2019/10/implementation-of-fully-autonomous-self.html
 
 # How to Use?
 
