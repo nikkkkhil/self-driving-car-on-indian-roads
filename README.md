@@ -4,17 +4,13 @@ Computer Vision Guided Deep Learning Network &amp; Machine Learning Techniques t
 ![](prediction_output.gif)  
 
 More Details of the Project here:
-https://medium.com/@AnandAI/self-driving-car-on-indian-roads-4e305cb04198
-
+https://nikhildeeplearningblogs.blogspot.com/2019/10/implementation-of-fully-autonomous-self.htm://nikhildeeplearningblogs.blogspot.com/2019/10/implementation-of-fully-autonomous-self.html
 
 # How to Use?
 
 ## Data Source/ Generate Training Data:
 
-First of all, record a driving video or obtain driving video from any source. I have contributed the indian driving dataset along with parameters in Kaggle. You can download it from here and unzip to project folder root.
-
-https://www.kaggle.com/ananduthaman/self-driving-car-on-indian-roads
-
+First of all, record a driving video or obtain driving video from any source. 
 If you are recording your own driving video, then generate the training parameters, i.e. steering angle, acceleration, brake and gear using the console interface. This is a hack to generate training data, without tampering with the OBD interface of the car, which is a lot harder.
 
 ## To invoke Console Interface:
